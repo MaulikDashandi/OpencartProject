@@ -1,0 +1,42 @@
+2025-01-09 11:37:24 INFO  Utils:112 - [TestNG] Running:
+  E:\Automation July\Unicode\opencart\master.xml
+
+2025-01-09 11:37:29 INFO  TC_001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-01-09 11:37:29 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2025-01-09 11:37:30 INFO  TC_001_AccountRegistrationTest:25 - Clicked on Register Link.. 
+2025-01-09 11:37:32 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2025-01-09 11:37:32 INFO  TC_001_AccountRegistrationTest:50 - Test passed
+2025-01-09 11:37:32 INFO  TC_001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-09 11:37:35 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-01-09 11:37:35 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-09 11:37:36 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-09 11:37:36 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-01-09 11:37:37 INFO  TC_002_LoginTest:32 - clicked on ligin button..
+2025-01-09 11:39:44 INFO  Utils:112 - [TestNG] Running:
+  E:\Automation July\Unicode\opencart\master.xml
+
+2025-01-09 11:39:47 INFO  TC_001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-01-09 11:39:47 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2025-01-09 11:39:48 INFO  TC_001_AccountRegistrationTest:25 - Clicked on Register Link.. 
+2025-01-09 11:39:49 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2025-01-09 11:39:49 INFO  TC_001_AccountRegistrationTest:50 - Test passed
+2025-01-09 11:39:49 INFO  TC_001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-09 11:39:52 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-01-09 11:39:53 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-09 11:39:53 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-09 11:39:53 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-01-09 11:39:54 INFO  TC_002_LoginTest:32 - clicked on ligin button..
+2025-01-09 13:21:58 INFO  Utils:112 - [TestNG] Running:
+  E:\Automation July\Unicode\opencart\master.xml
+
+2025-01-09 13:22:05 INFO  TC_001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-01-09 13:22:05 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link.. 
+2025-01-09 13:22:06 INFO  TC_001_AccountRegistrationTest:25 - Clicked on Register Link.. 
+2025-01-09 13:22:08 INFO  TC_001_AccountRegistrationTest:43 - Validating expected message..
+2025-01-09 13:22:08 INFO  TC_001_AccountRegistrationTest:50 - Test passed
+2025-01-09 13:22:08 INFO  TC_001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-09 13:22:12 INFO  TC_002_LoginTest:16 - **** Starting TC_002_LoginTest  ****
+2025-01-09 13:22:12 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-01-09 13:22:12 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-01-09 13:22:12 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-01-09 13:22:13 INFO  TC_002_LoginTest:32 - clicked on ligin button..
